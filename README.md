@@ -10,5 +10,5 @@
 
   <td>
 
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&theme=tokyonight&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
