@@ -1,8 +1,6 @@
-#### Welcome to my GitHub! 👋
+#### Hi there! Welcome to my GitHub! 👋
 
 ## I'm Fernando H. Filter
-
-###### About me
 - I am from **Brazil** 🇧🇷
 - I study **Software Engineering** in *[Univates](https://www.univates.br/)* 💻
 
