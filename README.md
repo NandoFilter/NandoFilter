@@ -2,7 +2,7 @@
 
 ## I'm Fernando H. Filter
 - I'm from **Brazil** 🇧🇷
-- I study **Software Engineering** in *[Univates](https://www.univates.br/)* 💻
+- I study **Software Engineering** at *[Univates](https://www.univates.br/)* 💻
 
 ![NandoFilter's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandoFilter&theme=vue-dark&show_icons=true)
 
