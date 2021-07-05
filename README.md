@@ -7,9 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-
-
-<div style="display: inline-block">
+<div style="display: inline-block"><br>
     <img alt="Nando-HTML" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img alt="Nando-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img alt="Nando-JS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
