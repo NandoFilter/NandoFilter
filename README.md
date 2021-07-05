@@ -1,6 +1,10 @@
 ## Olá, eu sou o Fernando :wave:
-- Eu sou do **Brasil** 🇧🇷
-- Estudo **Engenharia de Software** na *[Univates](https://www.univates.br/)* 💻
+
+<div>
+    <p>📌 Rio Grande do Sul, Brasil</p>
+    <br>
+    <p>💻 Estudo <strong>Engenharia de Software</strong> na <a href="https://www.univates.br/">Univates</a></p>
+</div>
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandoFilter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
