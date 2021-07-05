@@ -2,7 +2,6 @@
 
 <div>
     <p>📌 Rio Grande do Sul, Brasil</p>
-    <br>
     <p>💻 Estudo <strong>Engenharia de Software</strong> na <a href="https://www.univates.br/">Univates</a></p>
 </div>
 
