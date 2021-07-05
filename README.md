@@ -1,4 +1,4 @@
-## Olá, eu sou o Fernando H. Filter :wave:
+## Olá, eu sou o Fernando :wave:
 - Eu sou do **Brasil** 🇧🇷
 - Estudo **Engenharia de Software** na *[Univates](https://www.univates.br/)* 💻
 
