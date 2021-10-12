@@ -1,4 +1,4 @@
-## Olá, eu sou o Fernando :wave:
+## Olá, eu me chamo Fernando :wave:
 
 <div>
     <p>📌 Rio Grande do Sul, Brasil</p>
@@ -7,9 +7,9 @@
 </div>
 
 <div>
-    <a href="https://github.com/NandoFilter">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandoFilter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&langs_count=8&theme=tokyonight&hide=xslt,roff,shell,batchfile"/>
 </div>
 
 <div style="display: inline-block"><br>
@@ -17,6 +17,7 @@
     <img alt="Nando-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img alt="Nando-JS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Nando-Java" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Nando-Flutter" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
 
 ##
