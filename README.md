@@ -2,8 +2,7 @@
 
 <div>
     <p>📌 Rio Grande do Sul, Brasil</p>
-    <p>🤓 Cursando <strong>Engenharia de Software</strong> na <a href="https://www.univates.br/">Univates</a></p>
-    <p>💻 <strong>Desenvolvedor de Software Trainee</strong> na Interact Solutions</p>
+    <p>👨‍💻 Cursando <strong>Engenharia de Software</strong> na <a href="https://www.univates.br/">Univates</a></p>
 </div>
 
 <div>
