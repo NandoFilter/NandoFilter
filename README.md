@@ -23,12 +23,12 @@
 
 <div>
     <a href="https://www.linkedin.com/in/fernandofilter/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href = "mailto:fernandohfilter10@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href = "mailto:fernandohfilter10@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href = "https://open.spotify.com/user/cowhnzq8aiuhgqeuywhshaowd?si=3e71e9c420394d17">
-        <img src="https://img.shields.io/badge/-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+    <a href = "https://open.spotify.com/user/cowhnzq8aiuhgqeuywhshaowd?si=3e71e9c420394d17" target="_blank">
+        <img src="https://img.shields.io/badge/-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white">
     </a>
 </div>
