@@ -1,6 +1,7 @@
 ## Hello, call me by Fernando 👋
 
-<div>
+<div display="inline-block">
+    <img alt="coffee" align="right" width="150" height="120" src="https://64.media.tumblr.com/tumblr_m2eie7TGjX1qg6rkio1_500.gifv">
     <p>📌 Encantado, Rio Grande do Sul, Brazil</p>
     <p>💼 Software Developer | <a href="https://www.interactsolutions.com/">Interact Solutions</a></p>
     <p>👨‍💻 Studying <strong>Software Engineering</strong> | <a href="https://www.univates.br/">Univates</a></p>
