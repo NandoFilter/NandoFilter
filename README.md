@@ -1,4 +1,4 @@
-## Olá, eu me chamo Fernando :wave:
+## Hello, call me by Fernando 👋
 
 <div>
     <p>📌 Encantado, Rio Grande do Sul, Brazil</p>
