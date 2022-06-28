@@ -38,7 +38,7 @@
     <a href = "https://open.spotify.com/user/cowhnzq8aiuhgqeuywhshaowd?si=3e71e9c420394d17" target="_blank">
         <img src="https://img.shields.io/badge/-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white">
     </a>
-    <a href="https://steamcommunity.com/id/helring/">
+    <a href="https://steamcommunity.com/id/helring/" target="_blank">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
     </a>
 </div>
