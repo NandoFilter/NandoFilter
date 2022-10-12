@@ -4,7 +4,7 @@
     <img alt="coffee" align="right" width="150" height="120" src="https://64.media.tumblr.com/tumblr_m2eie7TGjX1qg6rkio1_500.gifv">
     <p>📌 Lajeado, Rio Grande do Sul, Brazil</p>
     <p>💼 Software Developer | <a href="https://www.interactsolutions.com/">Interact Solutions</a></p>
-    <p>📖 I'm learning JavaScript, Vue, Vuex and Nuxt</p>
+    <p>📖 I'm learning JavaScript, Vuex and Nuxt</p>
     <p>👨‍💻 Studying <strong>Software Engineering</strong> | <a href="https://www.univates.br/">Univates</a></p>
 </div>
 
