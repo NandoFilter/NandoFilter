@@ -9,12 +9,7 @@
 
 ##
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandoFilter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=282a36&border_color=44475a"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&langs_count=6&hide=java,xslt,roff,batchfile,shell,php,perl&theme=tokyonight&bg_color=282a36&border_color=44475a"/>
-</div>
-
-<div style="display: inline-block" align="center"><br>
+<div style="display: inline-block" align="center">
     <h3>Technologies</h3>
     <img alt="Nando-HTML" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img alt="Nando-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
