@@ -12,13 +12,15 @@
 
 <div style="display: inline-block" align="center">
     <h3>Technologies</h3>
-    <img alt="Nando-HTML" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-    <img alt="Nando-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img alt="Nando-JS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Nando-TS" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-    <img alt="Nando-Vue" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-    <img alt="Nando-Node" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img alt="Nando-Java" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="tech-Vue" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+    <img alt="tech-React" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="tech-Node" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img alt="tech-TS" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+    <img alt="tech-JS" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <img alt="tech-CSHarp" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img alt="tech-Bootstrap" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img alt="tech-Tailwind" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img alt="tech-Knex" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/knexjs/knexjs-original.svg">
 </div>
 
 ##
@@ -34,13 +36,16 @@
     <a href = "https://open.spotify.com/user/cowhnzq8aiuhgqeuywhshaowd?si=3e71e9c420394d17" target="_blank">
         <img src="https://img.shields.io/badge/-Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white">
     </a>
-    <a href="https://instagram.com/nandofilter" target="_blank">
+    <!--<a href="https://instagram.com/nandofilter" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
+    </a>-->
     <a href="https://discordapp.com/users/664118258072420384" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a> 
     <a href="https://steamcommunity.com/id/helring/" target="_blank">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.codewars.com/users/NandoFilter" target="_blank">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" target="_blank">
     </a>
 </div>
