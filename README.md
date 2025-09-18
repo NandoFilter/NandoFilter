@@ -4,7 +4,7 @@
     <img alt="coffee" align="right" width="150" height="120" src="https://64.media.tumblr.com/tumblr_m2eie7TGjX1qg6rkio1_500.gifv">
     <p>📌 Lajeado, Rio Grande do Sul, Brazil</p>
     <p>📖 I'm learning React, React Native, C# and UI/UX Design</p>
-    <p>💼 Software Developer at <a href="https://fortalezatec.com.br">ForControl</a></p>
+    <p>💼 Software Developer at Q2F Systems</p>
     <p>👨‍💻 Studying <strong>Software Engineering</strong> | <a href="https://www.univates.br/">Univates</a></p>
 </div>
 
