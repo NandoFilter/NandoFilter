@@ -44,9 +44,9 @@ const nandoFilter = {
  
 <div align="center">
  
-<a href="https://github.com/fernandofilter">
+<a href="https://github.com/nandofilter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandoFilter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&hide=java,xslt,shell,roff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoFilter&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&hide=html,java,xslt,shell,roff"/>
 </a>
  
 </div>
