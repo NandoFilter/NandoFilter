@@ -10,8 +10,6 @@
  
 </div>
  
----
- 
 ## 🧑‍💻 About Me
  
 ```ts
@@ -20,11 +18,11 @@ const nandoFilter = {
   work:      "Software Developer @ Q2F Systems",
   education: "BSc in Software Engineering @ Univates 🎓",
   learning:  ["Next.js", "C#", "UI/UX Design"],
-  hobbies:   ["Coding ☕", "Reading 📚", "Music 🎵", "Gaming 🎮"]
+  hobbies:   ["Coding ☕", "Reading 📚", "Music 🎧", "Gaming 🎮"]
 };
 ```
 
----
+<br>
 
 ## 🎵 Now Playing
 
@@ -34,7 +32,7 @@ const nandoFilter = {
 
 </div>
  
----
+<br>
  
 ## 🛠️ Tech Stack
  
@@ -48,7 +46,7 @@ const nandoFilter = {
  
 </div>
  
----
+<br>
  
 ## 📊 GitHub Stats
  
@@ -67,7 +65,7 @@ const nandoFilter = {
  
 </div>
  
----
+<br>
  
 ## 🌐 Connect with Me
  
@@ -82,7 +80,7 @@ const nandoFilter = {
  
 </div>
  
----
+<br>
  
 <div align="center">
  
